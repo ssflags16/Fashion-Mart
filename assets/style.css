@@ -434,7 +434,7 @@ button {
 
 @media (max-width:320px) {
     .rowsilder {
-        background-position: -280px;
+        background-position: 5px;
     }
     .mobileNav li {
         align-items: cente;
