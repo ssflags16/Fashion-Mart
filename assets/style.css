@@ -370,6 +370,7 @@ button {
     .row6 {
         width: 100%;
         justify-content: center;
+        height: 100%;
     }
     .fa-magnifying-glass {
         display: block;
@@ -434,7 +435,7 @@ button {
 
 @media (max-width:320px) {
     .rowsilder {
-        background-position: 5px;
+        background-position: -15px;
     }
     .mobileNav li {
         align-items: cente;
