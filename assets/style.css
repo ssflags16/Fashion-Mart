@@ -203,7 +203,6 @@ button {
 }
 
 .box button {
-    padding: 15px 35px;
     z-index: 2;
     align-items: center;
     color: #fff;
@@ -427,7 +426,7 @@ button {
     }
     #bars {
         display: block;
-        background-color: #e17d1a;
+        background-color: #04e6ff;
         padding: 7px;
         border: none;
     }
@@ -435,10 +434,10 @@ button {
 
 @media (max-width:320px) {
     .rowsilder {
-        background-position: -15px;
+        background-position: -392px;
     }
     .mobileNav li {
-        align-items: cente;
+        align-items: center;
         justify-content: center;
         left: 0px;
     }
